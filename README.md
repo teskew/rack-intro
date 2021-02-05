@@ -107,8 +107,11 @@ Rack will print out something like:
 >Note: If you're using the Learn IDE, you won't be able to get to your website
 >with `localhost`. Instead, you'll see a line that looks something like this -
 >`Starting server on 159.203.101.28:30001`. To see the webpage, just go to
->`159.203.101.28:30001` in your web browser. Anywhere these instructions tell
+>`
+
+` in your web browser. Anywhere these instructions tell
 >you to go to `localhost`, replace that with this IP address instead!
+
 
 Let's deconstruct this URL a little bit though. The URL is
 `http://localhost:9292/`. The protocol is `http`. That makes sense, but the
